@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\peque\u00F1o formulario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\peque\u00F1o formulario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|c:\\users\\hp\\source\\repos\\peque\u00F1o formulario\\peque\u00F1o formulario\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283863E-8BC9-4808-852D-BD125E532566}|Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj|solutionrelative:peque\u00F1o formulario\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Form1.cs",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Form1.cs",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwHQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:40:08.856Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Peque\u00F1o Formulario",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\Peque\u00F1o Formulario.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T21:23:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Form1.Designer.cs",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:21:08.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "i.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\i.cs",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\i.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\i.cs",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\i.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:15:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Program.cs",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Program.cs",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:14:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "i.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\i.cs",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\i.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\i.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\i.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:14:40.076Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Form1.cs",
+              "RelativeDocumentMoniker": "Peque\u00F1o Formulario\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Peque\u00F1o Formulario\\Peque\u00F1o Formulario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Peque\u00F1o Formulario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:37:56.975Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

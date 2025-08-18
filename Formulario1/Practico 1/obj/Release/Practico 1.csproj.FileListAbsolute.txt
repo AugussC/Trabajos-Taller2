@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Formulario1\Practico 1\bin\Release\Practico 1.exe.config
+C:\Users\HP\source\repos\Formulario1\Practico 1\bin\Release\Practico 1.exe
+C:\Users\HP\source\repos\Formulario1\Practico 1\bin\Release\Practico 1.pdb
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico 1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico_1.Form1.resources
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico_1.Properties.Resources.resources
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico 1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico 1.exe
+C:\Users\HP\source\repos\Formulario1\Practico 1\obj\Release\Practico 1.pdb

@@ -1,0 +1,18 @@
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\bin\Release\net8.0-windows\Pequeño Formulario.exe
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\bin\Release\net8.0-windows\Pequeño Formulario.deps.json
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\bin\Release\net8.0-windows\Pequeño Formulario.runtimeconfig.json
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\bin\Release\net8.0-windows\Pequeño Formulario.dll
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\bin\Release\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño_Formulario.Form1.resources
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño_Formulario.i.resources
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño_Formulario.Properties.Resources.resources
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.AssemblyInfo.cs
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.dll
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\refint\Pequeño Formulario.dll
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.pdb
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\Pequeño Formulario.genruntimeconfig.cache
+C:\Users\HP\source\repos\Pequeño Formulario\Pequeño Formulario\obj\Release\net8.0-windows\ref\Pequeño Formulario.dll
