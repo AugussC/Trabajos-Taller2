@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\Trabajos-Taller2\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj": {
+    "C:\\Users\\HP\\source\\repos\\Trabajos-Taller2\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Trabajos-Taller2\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj",
         "projectName": "Pequeño Formulario",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Trabajos-Taller2\\Pequeño Formulario\\Pequeño Formulario\\Pequeño Formulario.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Pequeño Formulario\\Pequeño Formulario\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Trabajos-Taller2\\Pequeño Formulario\\Pequeño Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

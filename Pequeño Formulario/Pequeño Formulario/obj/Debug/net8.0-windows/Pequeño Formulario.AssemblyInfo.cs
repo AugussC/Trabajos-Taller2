@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pequeño Formulario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692f3de1a8cdef50069d79f3ba01a0d1777b2441")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pequeño Formulario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pequeño Formulario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
